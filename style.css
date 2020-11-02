@@ -5,12 +5,19 @@ body{
 .assignment {
     display: flex;
     padding: 10px;
+    margin:10px;
+    margin-bottom: 30 px;
+    background: lightgray;
+    border-radius:5px;
+    box-shadow: 5px 8px darkgray;
 }
 
 .assignment img{
     width: 200px;
     padding: 10px;
-    
+    border: 2px solid black;
+    margin-right: 20px;
+    border-radius: 5px;
 }
 head{
     background-color: gray;
